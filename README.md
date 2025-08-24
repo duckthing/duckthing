@@ -1,16 +1,12 @@
-## Hi there 👋
+## i'm duckthing!!
+I work on whatever is interesting to me. The useful ones are public.
+- [**weaver**](https://github.com/duckthing/weaver) - a work-in-progress sprite editor being made for asset management in game projects
+- [**bitmask.lua**](https://github.com/duckthing/bitmask.lua) - a bitmask library for Lua, also used in Weaver
 
-<!--
-**duckthing/duckthing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### tools I use
+- [**helix**](https://helix-editor.com/) - a modal text editor
+- **VSCode** - used occasionally for certain extensions and web development
+- **Love2D** - game framework, also used in Weaver
+- Debian and Fedora Linux
+- **Lua** and **Rust** are my favorite languages, but I'm decent in a few others as well:
+	- C#, C++, JavaScript, Java, GDScript
