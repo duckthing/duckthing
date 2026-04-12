@@ -1,8 +1,14 @@
 ## i'm duckthing!!
-I work on whatever is interesting to me. The useful ones are public.
-- [**weaver**](https://github.com/duckthing/weaver) - a work-in-progress sprite editor being made for asset management in game projects
+I love solving complex problems and learning new technology.
+
+Here's some of my useful public repositories:
+- [**weaver**](https://github.com/duckthing/weaver) - a sprite editor being made for asset management in game projects
+	- It's inactive while I work on another UI library, but Weaver is stable for now
 - [**bitmask.lua**](https://github.com/duckthing/bitmask.lua) - a bitmask library for Lua, also used in Weaver
 - [**shaderstack**](https://github.com/duckthing/shaderstack) - a library that combines shaders at runtime for Love2D
+- [**expression**](https://github.com/duckthing/expression) - a library for solving user math expressions
+
+I don't have much of an online presence. I'll try to solve any issues and pull requests when I get to them.
 
 ### tools I use
 - **Helix** - a modal text editor
