@@ -1,4 +1,3 @@
-## i'm duckthing!!
 I love solving complex problems and learning new technology.
 
 Here's some of my useful public repositories:
@@ -16,4 +15,4 @@ I don't have much of an online presence. I'll try to solve any issues and pull r
 - **Love2D** - game framework, also used in Weaver
 - Debian and Fedora Linux
 - **Lua** and **Rust** are my favorite languages, but I'm decent in a few others as well:
-	- C#, C++, JavaScript, Java, GDScript
+	- Python, C#, C++, JavaScript, Java, GDScript, and HTML/CSS
